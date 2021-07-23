@@ -19,8 +19,6 @@ At start, *rezgauche.be* follows three initial paths to transit from a curated s
 2. Start a cooperative model to finance, diversify and share responsibility. 
 3. Make a DAO and/or a DISCO and develop the gallery/atelier as a smart contract.
 
-
-
 ## Purpose
 
 *proper:* \
@@ -129,8 +127,6 @@ If performing happens with a public on the street side, the performance’s soun
 Alternatively, by adding a curtain, then events can happen in a more relaxed intimate setting between the persons present. This is often easier when working with research, rehearsals, meetings, meditations, preparing exhibitions, etc. And if the weather allows, the courtyard is nice for gatherings, reflection, and occasional events. 
 
 Specific to this location is that nothing (creations, material, artworks, etc) can be placed in the corridors, courtyard, or outside the area of the gallery/atelier, because this obstructs the common use of the building’s occupants. That means in quotidian practice that how you make/do things has to include a consideration of any residuals of your practice. With late night events, the neighbours need to be involved somehow, and/or reduce the volume of evocative noises and music, so that the kids and early hard working adults can enjoy their beauty sleep.
-
-
 
 ## Estimated Annual Budget
 
@@ -294,9 +290,9 @@ Estimated project total annual costs: *approximately 119 314 €*
 
 ### contact
 
-email: info@transdisciplinary.art \
+email: mail@rezgauche.be\
 address: Theodore Verhaegenstraat 154/rdc L, B-1060 Brussels, Belgium\
-telephone: +32 488 367 723 (Stef Meul)\
+telephone: +32 488 367 723\
 administration: Verenigde Producties vzw, activiteit nr. 06349 transdisciplinary art foundation / Rue Coenraets 72, B-1060 Brussels / V.A.T. BE 0896.755.397
 
 \---
