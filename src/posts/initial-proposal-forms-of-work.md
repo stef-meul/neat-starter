@@ -9,7 +9,7 @@ tags:
 ![wsf](/static/img/rezgauche-copy.jpg "wsf")
 
 rezgauche.be has a workspace atelier / gallery and a space for living available. \
-We're searching for artists that want to be part of developing this project.\
+We're inviting artists, organisations and institutional partners to develop our activities and residencies.\
 \
 Read more about *rezgauche.be:* <https://rezgauche.be/posts/rezgauche-be/>\
 Apply for a residency *A.i.R.* <https://framaforms.org/artist-residency-application-1625905255>
