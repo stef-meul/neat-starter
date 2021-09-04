@@ -8,12 +8,13 @@ tags:
 ---
 ![wsf](/static/img/rezgauche-copy.jpg "wsf")
 
-rez gauche is inviting artists, organisations and institutional partners to engage with responsibility, take part and develop our activities and residencies. Read more*:* <https://rezgauche.be/posts/rezgauche-be/>
+rez gauche is inviting artists, organisations and institutional partners to engage with responsibility, take part and develop our activities and residencies. *[read more](https://rezgauche.be/posts/rezgauche-be/)*
 
-Apply for a residency *A.i.R.* <https://framaforms.org/artist-residency-application-1625905255>
+Apply for a residency *[A.i.R.](https://framaforms.org/artist-residency-application-1625905255)*
 
-If you have other ideas or questions about participating, etc. get in touch with us by:\
-email: [mail@rezgauche.be](mailto:mail@rezgauche.be)\
-telephone: +32 488 367 723\
-social: [facebook](https://www.facebook.com/rezgauche)[](https://www.facebook.com/stefmeul)\
-correspondence: Rue Theodore Verhaegen 154, rez gauche, B-1060 Brussels, Belgium.
+
+
+And get in touch with us by:\
+*[mail@rezgauche.be](mailto:mail@rezgauche.be)*    call *+32 488 367 723*  *[facebook](https://www.facebook.com/rezgauche)*[](https://www.facebook.com/stefmeul)    
+
+Rue Theodore Verhaegen 154, rez gauche, B-1060 Brussels, Belgium.
