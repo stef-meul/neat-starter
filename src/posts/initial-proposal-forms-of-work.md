@@ -8,15 +8,12 @@ tags:
 ---
 ![wsf](/static/img/rezgauche-copy.jpg "wsf")
 
-rezgauche.be has a workspace atelier / gallery and a space for living available. \
-We're inviting artists, organisations and institutional partners to develop our activities and residencies.\
-\
-Read more about *rezgauche.be:* <https://rezgauche.be/posts/rezgauche-be/>\
+rez gauche is inviting artists, organisations and institutional partners to engage with responsibility, take part and develop our activities and residencies. Read more*:* <https://rezgauche.be/posts/rezgauche-be/>
+
 Apply for a residency *A.i.R.* <https://framaforms.org/artist-residency-application-1625905255>
 
-Or contact us by:
-
-Email: [mail@rezgauche.be](mailto:mail@rezgauche.be)\
-Telephone: +32 488 367 723\
-Social: [facebook](https://www.facebook.com/rezgauche)[](https://www.facebook.com/stefmeul)\
-Address: Rue Theodore Verhaegen 154, rez gauche, B-1060 Brussels, Belgium.
+If you have other ideas or questions about participating, etc. get in touch with us by:\
+email: [mail@rezgauche.be](mailto:mail@rezgauche.be)\
+telephone: +32 488 367 723\
+social: [facebook](https://www.facebook.com/rezgauche)[](https://www.facebook.com/stefmeul)\
+correspondence: Rue Theodore Verhaegen 154, rez gauche, B-1060 Brussels, Belgium.
