@@ -6,6 +6,8 @@ date: 2021-10-07T18:00:32.757Z
 tags:
   - created
 ---
+![](/static/img/readinggroup.jpg)
+
 Beginning on October 7th 2021, Rez Gauche will host *a reading group* in a new hybrid online/in-person format.
 
 *a reading group* is a self-sustained, collectively run and porous educational structure. The participants feed the group and the group feeds the participants. 
