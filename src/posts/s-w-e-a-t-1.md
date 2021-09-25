@@ -1,8 +1,8 @@
 ---
-title: S.W.E.A.T.
+title: s.w.e.a.t.
 description: Softly We Entered Another Truth
 author: rez gauche
-date: 2021-09-25T15:05:44.572Z
+date: 2021-10-06T15:05:44.572Z
 tags:
   - created
 ---
