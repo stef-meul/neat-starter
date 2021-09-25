@@ -6,6 +6,8 @@ date: 2021-10-24T15:04:12.208Z
 tags:
   - created
 ---
+![](/static/img/stitch-and-bitch.jpg)
+
 This past year during the pandemic, governance over bodies became a common and non-negotiable presence. Conversations surrounding dysfunctional state-governance, structural racism, and global wealth disparities became common, irrespective of class, sexuality, race, or gender expression. Giorgio Agamben speaks of the “whatever singularity” that occurs when a community of varying peoples, with no conditions of belonging, come together to be such that always matter.
 
 Inspired by Agamben’s notion of the ‘coming community’ , *stitch and bitch* takes as its main methodology the sewing circle. Sewing circles have served as a place where people have come together to plan, self-organize, share knowledges, gossips, warnings etc. throughout time and space. In particular, during the Antebellum South in the US, sewing circles formed as resistance to slavery and at other points in US history, sewing circles were charitable endeavors, repurposing fabrics to make blankets and clothes. Ironically, the term ‘sewing circle’ was a coded word that was both slang for and protected the underground network of LGBTQ actors and actresses in Hollywood during its Golden Age. 
