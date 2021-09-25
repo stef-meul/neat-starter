@@ -1,6 +1,6 @@
 ---
-title: "  s.w.e.a.t."
-description: softly we entered another truth - first edition
+title: "  s.w.e.a.t_00"
+description: softly we entered another truth
 author: rez gauche
 date: 2021-07-19T09:07:05.212Z
 tags:
