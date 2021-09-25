@@ -2,7 +2,7 @@
 title: stitch and bitch
 description: sewing circle sundays
 author: rez gauche
-date: 2021-09-25T15:04:12.208Z
+date: 2021-10-24T15:04:12.208Z
 tags:
   - created
 ---
