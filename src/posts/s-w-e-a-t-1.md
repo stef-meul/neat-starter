@@ -6,7 +6,9 @@ date: 2021-10-06T15:05:44.572Z
 tags:
   - created
 ---
-### S.W.E.A.T.
+
+
+![](/static/img/sweat.jpg)
 
 *Softly We Entered Another Truth* is rethinking work through practice. It wants to put into question the value of the body: its products, services and experiences.
 
@@ -16,8 +18,6 @@ tags:
 
 *Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care.
 
-
-
 **dates, times and location**
 
 6 and 7 October\
@@ -25,8 +25,6 @@ tags:
 
 9 and 10 November\
 14h00 - 18h00
-
-
 
 **info and inscriptions**\
 mail@rezgauche.be\
