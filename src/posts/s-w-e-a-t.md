@@ -1,8 +1,8 @@
 ---
-title: "  S.W.E.A.T."
-description: 19 until 22 July
+title: "  s.w.e.a.t."
+description: softly we entered another truth - first edition
 author: rez gauche
-date: 2021-07-17T09:07:05.212Z
+date: 2021-07-19T09:07:05.212Z
 tags:
   - created
 ---
