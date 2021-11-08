@@ -6,7 +6,7 @@ date: 2021-11-08T10:16:58.909Z
 tags:
   - created
 ---
-![](/static/img/shoplisting-thing-01.jpg)
+![https://www.mintbase.io/thing/VLJixbL-eJ-c954A6F8EpcDs0Qk9gudeMCzbWhQ4Nfw:rezgauche.mintbase1.near](/static/img/shoplisting-thing-01.jpg)
 
 *Softly We Entered Another Truth* is rethinking work through practice. It wants to put into question the value of the body: its products, services and experiences.
 
@@ -17,8 +17,6 @@ tags:
 *Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care.\
 \
 In the November edition of s.w.e.a.t. the focus is on developing an economy of solidarity. rezgauche.be proposes a situation where artists can present their work and benefit from donations made to the collective. By gathering into a collection and coupling an authentic digital version of the work, the artists can benefit from any potential change of ownership of their work, creating an economy of solidarity between the participants.
-
-
 
 **dates, times and location**
 
