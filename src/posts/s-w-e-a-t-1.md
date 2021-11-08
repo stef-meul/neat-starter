@@ -2,7 +2,7 @@
 title: s.w.e.a.t. / shoplisting
 description: Softly We Entered Another Truth
 author: rez gauche
-date: 2021-10-06T15:05:44.572Z
+date: 2021-11-08T10:16:58.909Z
 tags:
   - created
 ---
