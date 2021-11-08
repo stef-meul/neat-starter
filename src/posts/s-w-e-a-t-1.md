@@ -22,8 +22,8 @@ In the November edition of s.w.e.a.t. the focus is on developing an economy of s
 
 **dates, times and location**
 
-~~ 6 and 7 October\
-14h00 - 18h00 ~
+~~6 and 7 October\
+14h00 - 18h00~~
 
 9 and 10 November\
 14h00 - 18h00
