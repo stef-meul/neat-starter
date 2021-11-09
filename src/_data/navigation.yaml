@@ -4,3 +4,6 @@ items:
 
   - text: about
     url: /about
+    
+  - text: °
+    url: /about2
