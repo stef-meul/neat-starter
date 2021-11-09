@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "shoplisting template post"
+title: "shoplisting-template"
 description: template
-path: shoplisting/shoplisting-template-post
+path: shoplisting/shoplisting-template
 author: rezgauche.be
 date: 2021-11-09T11:40:00.087Z
 tags:
