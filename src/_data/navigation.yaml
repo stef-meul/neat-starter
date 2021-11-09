@@ -1,9 +1,7 @@
 items:
   - text: index
     url: /blog
-
   - text: about
     url: /about
-    
   - text: °
-    url: /about2
+    url: /shoplisting/shoplisting-template/
