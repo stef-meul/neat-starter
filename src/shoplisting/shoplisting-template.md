@@ -22,16 +22,21 @@ Thinking about these possibilities of allowing spaces to exist in between the in
 
 add donation: <a href="https://opencollective.com/shoplisting/donate" target="_blank">*shoplisting donation*<a/>
 
-embed image:
+embed image:    
+relative 1
 ![embedded relative 1](https://lo4tnjvh5j73cuicri3kk6z5ac3df4wwfa6uifdmsxrdxwnicrqa.arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA)
-
+relative 2
 ![embedded relative 1](https://lo4tnjvh5j73cuicri3kk6z5ac3df4wwfa6uifdmsxrdxwnicrqa.arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA?raw=true)
-
+relative 3
 ![embedded relative 1](https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA?raw=true)
-
+relative 4
 ![embedded relative 1](https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA?)
-
+relative 5 (small)
+![embedded relative](https://www.mintbase.io/_next/image?url=https%3A%2F%2Fcoldcdn.com%2Fapi%2Fcdn%2Fbronil%2Fi_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4&w=1920&q=75?raw=true)
+relative 6 (small)
+![embedded relative](https://www.mintbase.io/_next/image?url=https%3A%2F%2Fcoldcdn.com%2Fapi%2Fcdn%2Fbronil%2Fi_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4&w=1920&q=75?)
   
+embedded local
 ![](/static/img/shoplisting-thing-01.jpg)
 
 <hr>
