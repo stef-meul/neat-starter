@@ -24,7 +24,8 @@ add donation: <a href="https://opencollective.com/shoplisting/donate" target="_b
 
 embed image:
 ![embedded relative](https://www.mintbase.io/_next/image?url=https%3A%2F%2Fcoldcdn.com%2Fapi%2Fcdn%2Fbronil%2Fi_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4&w=1920&q=75?raw=true)
-![embedded local](/static/img/screen-shot-2020-11-20-at-15.17.57.png)
+
+![embedded local](/static/img/shoplisting-thing-01.jpg)
 
 <hr>
 
