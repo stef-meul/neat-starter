@@ -1,1 +1,7 @@
-links: []
+links:
+  - url: https://opencollective.com/rezgauche
+    title: opencollective
+    desc: fund
+  - url: https://app.astrodao.com/dao/rezgauche.sputnik-dao.near
+    title: dao
+    desc: vote
