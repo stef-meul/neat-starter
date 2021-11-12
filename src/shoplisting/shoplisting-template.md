@@ -22,14 +22,14 @@ I’m interested in sharing with persons that want to share the responsibilities
 artist info: 
 shoplisting is a benefit sale to gather resources for artists to have abundant time and necessary means to develop research and practice which does not have to be profit driven, neither contribute to propagate society at large. 
 <br> 
+<hr>
+<div align="center">
 <br>
   ![](https://arweave.net/i_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4)
 <br>
 <a href="https://opencollective.com/shoplisting/donate" target="_blank">**donate to shoplisting**<a/>
 <br>
   ![](https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA)
-<hr>
-<div align="center">
 <br><br>
 <a href="{{ '/shoplisting/' | url }}">back</a> - <a href="{{ '/shoplisting/products/' | url }}">next</a>
 
