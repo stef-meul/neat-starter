@@ -3,7 +3,7 @@ title: project / locality / purpose / activities / participation / residency /
   estimated budget / roadmap
 description: about rezgauche.be
 author: rezgauche
-date: 2021-07-14T09:42:14.538Z
+date: 2021-11-12T12:43:02.152Z
 tags:
   - created
 ---
@@ -79,7 +79,7 @@ The rezgauche.be *A.i.R*. selection criteria are based on:
 
 ### OpenCollective
 
-To become a participant *rezgauche.be,* to support, benefit and develop its financial structure, a collective fund is organised through [opencollective.com](https://opencollective.com/). *(more info coming soon).*
+To become a participant *rezgauche.be,* to support, benefit and develop its financial structure, a collective fund is organised through [opencollective.com/rezgauche](https://opencollective.com/rezgauche) .  
 
 This allows for a transparent insight in the funds, costs and expenses of *rezgauche.be*. 
 
@@ -87,17 +87,18 @@ A fiscal host takes care of the financial administration. Donation and funding c
 
 Employment in *rezgauche.be* can happen through the Smart Activity, for example by invoicing *opencollective*.
 
-### Sputnik Dao
+### Astro Dao
 
 To become a stakeholder of *rezgauche.be* and decide on its participants' proposals, *A.i.R*. projects, budget, etc. the formation of a DAO (Decentralised Autonomous Organisation) and/or a disCO (Distributed Cooperative organisation) will be developed/practiced. 
 
-To develop this practice, *rezgauche.be*’s stakeholders form and join our dao on the Near protocol blockchain. <https://www.sputnik.fund/#/select-dao>. This makes it possible for persons to engage with *rezgauche.be*’s organisation remotely and asynchronously - i.e. wherever you have internet access and at your own rhythm.
+To develop this practice, *rezgauche.be*’s stakeholders form and join our dao on the Near protocol blockchain. [](https://www.sputnik.fund/#/select-dao)<https://app.astrodao.com/dao/rezgauche.sputnik-dao.near> 
 
-The Near blockchain has very low network fees, human readable addresses, fast transaction times, proof of stake, the aurora bridge for cross chain transactions, and is climate neutral <https://near.org/blog/the-near-blockchain-is-climate-neutral/> - therefore making sputnik dao an interesting decentralised technology to start with when compared to aragon on ethereum, or the disco tech stack which is, at the time of writing this text, still in its development stage. 
+This makes it possible for persons to engage with *rezgauche.be*’s organisation remotely and asynchronously - i.e. wherever you have internet access and at your own rhythm.
+
+The Near blockchain has very low network fees, human readable addresses, fast transaction times, proof of stake, the aurora bridge for cross chain transactions, and is climate neutral <https://near.org/blog/the-near-blockchain-is-climate-neutral/> - therefore making Astro dao an interesting decentralised technology to start with when compared to aragon on ethereum, or the disco tech stack which is, at the time of writing this text, still in its development stage. 
 
 In a later stage *rezgauche.be* will research the possibility of developing a specific smart contract for its location and its activities, an nft format with the *mintbase.io* technology on the Near network. \
-Example use of space contract (site in development):\
-<https://www.mintbase.io/thing/cr6dbJnnj6eUy-I5TPxIJemnOhdtNVUZhFc7GKYcRbo:abrahamkelly.mintbase1.near> \
+Example use of space contract (site in development): <https://www.mintbase.io/store/rezgauche.mintbase1.near>\
 (price of this example test item can be updated regularly to correspond to actual costs and/or available budget, if values between Near, dollar and euro change, other transaction fees might apply, such as transfer over aurora bridge to ethereum, etc).
 
 A workshop to develop the *rezgauche.be* dao, and voting on its procedures, rules etc, will be organised with participants and stakeholders. Documentation will be made available to new participants and help provided where needed.
@@ -296,3 +297,8 @@ telephone: +32 488 367 723\
 administration: Verenigde Producties vzw, activiteit nr. 06349 transdisciplinary art foundation / Rue Coenraets 72, B-1060 Brussels / V.A.T. BE 0896.755.397
 
 \---
+
+
+
+### `originally published `07/14/2021 11:42 AM\
+`updated on `11/12/2021 1:43 PM
