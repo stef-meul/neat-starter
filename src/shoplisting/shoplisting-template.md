@@ -26,8 +26,6 @@ shoplisting is a benefit sale to gather resources for artists to have abundant t
   ![](https://arweave.net/i_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4)
 <br>
 <a href="https://opencollective.com/shoplisting/donate" target="_blank">**donate to shoplisting**<a/>
-<br>
-  ![](https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA)
 <br><br>
 <hr>
 <div align="center">
