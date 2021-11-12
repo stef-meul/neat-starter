@@ -22,7 +22,6 @@ I’m interested in sharing with persons that want to share the responsibilities
 artist info: 
 shoplisting is a benefit sale to gather resources for artists to have abundant time and necessary means to develop research and practice which does not have to be profit driven, neither contribute to propagate society at large. 
 <br> 
-<hr>
 <div align="center">
 <br>
   ![](https://arweave.net/i_6u2gkMIlRWwA93pmc4G7_YqpJNSlwNMu8UdUXcdp4)
@@ -31,5 +30,6 @@ shoplisting is a benefit sale to gather resources for artists to have abundant t
 <br>
   ![](https://arweave.net/W7k2pqfqf7FRAoo2pXs9ALYy8tYoPUQUbJXiO9moFGA)
 <br><br>
+<hr>
 <a href="{{ '/shoplisting/' | url }}">back</a> - <a href="{{ '/shoplisting/products/' | url }}">next</a>
 
